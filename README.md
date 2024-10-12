@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharchuri" alt="niharchuri" /></a> </p>
 
-- 🔭 I’m currently working on [Web development for MumbaiMUN](https://mumbaimun.com/)
+- 🔭 I’m currently working on Web development for [MumbaiMUN](https://mumbaimun.com/)
 
 - 🌱 I’m currently learning **Astro, Python for ML**
 
