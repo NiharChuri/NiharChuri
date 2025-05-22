@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on Web development for [MumbaiMUN](https://mumbaimun.com/)
 
-- 🌱 I’m currently learning **Astro, Python for ML**
+- 🌱 I’m currently learning **Python for ML, LLMs**
 
-- 🤝 I’m looking for help with **Backend for Web Development**
+- 🤝 I’m looking for help with **Developing open source LLMs**
 
 - 📫 How to reach me **nihar.churi@gmail.com**
 
