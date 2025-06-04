@@ -26,3 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharchuri&show_icons=true&locale=en" alt="niharchuri" /></p>
 
+[![An image of @niharchuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niharchuri)](https://holopin.io/@niharchuri)
