@@ -8,8 +8,13 @@
 # 💫 About Me:
 - 🔭 I’m currently working on AI development for [NUCFDC](https://NUCFDC.in/)
 
-<br><br>🌱 I’m currently learning: Python for ML, LLMs<br><br>🤝 I’m looking for help with: Developing open source LLMs<br><br>📫 How to reach me: nihar.churi@gmail.com<br><br>⚡ Fun fact: I can bake
+- 🌱 I’m currently learning **Python for ML, LLMs**
 
+- 🤝 I’m looking for help with **Developing open source LLMs**
+
+- 📫 How to reach me **nihar.churi@gmail.com**
+
+- ⚡ Fun fact **I can bake**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niharchuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharchuri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/niharchuri) 
