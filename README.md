@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharchuri" alt="niharchuri" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on: AI development for NUCFDC<br><br>🌱 I’m currently learning: Python for ML, LLMs<br><br>🤝 I’m looking for help with: Developing open source LLMs<br><br>📫 How to reach me: nihar.churi@gmail.com<br><br>⚡ Fun fact: I can bake
+- 🔭 I’m currently working on AI development for [NUCFDC](https://NUCFDC.in/)
+
+<br><br>🌱 I’m currently learning: Python for ML, LLMs<br><br>🤝 I’m looking for help with: Developing open source LLMs<br><br>📫 How to reach me: nihar.churi@gmail.com<br><br>⚡ Fun fact: I can bake
 
 
 ## 🌐 Socials:
