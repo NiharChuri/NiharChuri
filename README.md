@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharchuri" alt="niharchuri" /></a> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on AI development for [NUCFDC](https://NUCFDC.in/)
+- 🔭 I’m currently working on Learning AI and MCPs
 
 - 🌱 I’m currently learning **Python for ML, LLMs**
 
